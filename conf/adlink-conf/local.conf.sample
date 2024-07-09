@@ -21,3 +21,5 @@ PATCHRESOLVE = "noop"
 # this doesn't mean anything to you.
 CONF_VERSION = "2"
 IMAGE_INSTALL:append = " semaec4.0"
+
+IMAGE_FSTYPES = ".iso"
